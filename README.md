@@ -49,6 +49,7 @@ VaR 95% Confidence Level   : -16.59%
 Parametric Exposure Loss   : $1,658.73 (Per $10,000 Portfolio)
 ==============================================================
 ```
+![Empirical Distribution of Simulated 1-Year Returns for JPM](empirical_distribution.png)
 
 ### C. Financial Interpretation of the Output
 *   **Downside Risk Capital Boundary:** At a 95% confidence level, the maximum expected capital erosion for JPMorgan Chase & Co. (JPM) over a 252-trading-day horizon is **16.59%**. This means we are 95% statistically confident that the maximum loss will not exceed this threshold under normal market conditions.
